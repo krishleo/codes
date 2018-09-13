@@ -1,0 +1,10 @@
+git init
+git config --global user.name "<>"
+git config --global user.email "<>"
+git add [-A(for everything)]
+git rm --cached <file name>
+git status
+git commit
+git log
+
+gitignore: enter file names you dont want in the repository 
